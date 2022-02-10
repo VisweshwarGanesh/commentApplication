@@ -1,4 +1,3 @@
-The project zipfile(CommentsApplication.zip) should be imported in "Eclipse enterprise edition" as "Existing project into workspace". 
 A MySQL database with name "commentapp" needs to be created.
 The database driver, URL, username, password are available in com/commentapp/resources/conn.properties file.
 Currently the user is "root" and password is "root".
